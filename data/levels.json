@@ -1,0 +1,102 @@
+{
+    "levels":{
+       "0":{
+          "enemies":[
+             {
+                "name":"Blop",
+                "x":760,
+                "y":520
+             }
+          ],
+          "prysms":[
+             
+          ],
+          "array":null,
+          "resolution": [840,600],
+          "win_condition":["enemies"],
+          "finished":false
+       },
+        "1":{
+            "enemies":[
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":600
+
+                },
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":520
+                },
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":440
+                }
+            ],
+            "prysms":[
+            
+            ],
+            "array":null,
+            "resolution": [1240,680],
+            "win_condition":["enemies"],
+            "finished":false
+        },
+    "4":{
+            "enemies":[
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":600
+
+                },
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":520
+                },
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":440
+                }
+            ],
+            "prysms":[
+            
+            ],
+            "array":null,
+            "resolution": [1240,680],
+            "win_condition":["enemies"],
+            "finished":false
+        },
+    
+    "5":{
+            "enemies":[
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":600
+
+                },
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":520
+                },
+                {
+                    "name":"Blop",
+                    "x":680,
+                    "y":440
+                }
+            ],
+            "prysms":[
+            
+            ],
+            "array":null,
+            "resolution": [1240,680],
+            "win_condition":["enemies"],
+            "finished":false
+        }
+    }
+ }
